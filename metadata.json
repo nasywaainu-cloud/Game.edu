@@ -1,0 +1,6 @@
+{
+  "name": "Mengungkap Peran Hormon dalam Pertumbuhan dan Perkembangan Tumbuhan",
+  "description": "Game petualangan hutan 3D interaktif berbasis Discovery Learning untuk menjelajahi dan mengungkap peran hormon tumbuhan (auksin, giberelin, sitokinin, etilen, dan asam absisat).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
